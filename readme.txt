@@ -1,4 +1,0 @@
-git is version control system
-git is free for use
-distributed
-rdddd
